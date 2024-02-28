@@ -51,14 +51,18 @@ export const PEOPLE_URL = [
     {
       title: 'Enlaces',
       links: [
-        'Nosotros',
-        'Servicios',
-        'Contacto',
+        {title: 'Nosotros', href: '/nosotros'},
+        {title: 'Servicios', href: '/servicios'},
+        {title: 'Contacto', href: '/contacto'},
       ],
     },
     {
       title: 'Información',
-      links: ['Garantías', 'Cómo llegar', 'Hilink kinthill'],
+      links: [
+        {title: 'Garantías', href: '/'}, 
+        {title: 'Cómo llegar', href: '/'}, 
+        {title: 'Hilink kinthill', href: '/'},
+      ],
     },
   ];
   
@@ -72,11 +76,10 @@ export const PEOPLE_URL = [
   
   export const SOCIALS = {
     title: 'Social',
-    links: [
-      '/facebook.svg',
-      '/instagram.svg',
-      '/twitter.svg',
-      '/youtube.svg',
-      '/wordpress.svg',
+    redes: [
+      { icon: '/facebook.svg', link: '/'},
+      { icon: '/instagram.svg', link: '/'},
+      { icon: '/x.svg', link: '/'},
+      { icon: '/youtube.svg', link: '/'},
     ],
   };

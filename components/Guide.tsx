@@ -9,8 +9,9 @@ const Guide = () => {
           Construyendo juntos
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guiando tus pasos</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
+          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guiando sus pasos</h2>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">En nuestra ferretería, estamos comprometidos a guiarte en cada paso de tu proyecto, desde el inicio hasta la finalización.
+          Ya sea que estés embarcándote en una renovación de tu hogar, un proyecto de construcción o simplemente necesites ayuda para un pequeño trabajo de bricolaje, nuestro equipo de expertos está aquí para proporcionarte el apoyo y los consejos que necesitas. Nos esforzamos por ser más que una simple ferretería; somos tu socio en cada paso del camino hacia el éxito de tu proyecto.</p>
         </div>
       </div>
 

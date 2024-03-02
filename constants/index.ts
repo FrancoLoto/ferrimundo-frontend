@@ -61,7 +61,7 @@ export const PEOPLE_URL = [
       links: [
         {title: 'Garantías', href: '/'}, 
         {title: 'Cómo llegar', href: '/'}, 
-        {title: 'Hilink kinthill', href: '/'},
+        {title: 'Aviso legal', href: '/'},
       ],
     },
   ];

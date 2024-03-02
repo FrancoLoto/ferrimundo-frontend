@@ -28,8 +28,7 @@ const Guide = () => {
           <div className="flexBetween flex-col">
             <div className='flex w-full flex-col'>
               
-              <p className="bold-20 mt-2 text-white">Pida su presupuesto</p>
-              <span className="bold-20 text-white text-center mb-4">por Whatsapp</span>
+              <p className="bold-20 mt-1 mb-6 text-white regular-20">Pedí tu presupuesto</p>
             </div>
 
             <div className='flex items-center justify-center w-full flex-col'>
